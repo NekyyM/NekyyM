@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NODEJS"  width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="NOTION"  width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MONGO"  width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="NOTION"  width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" title="ASTRO"  width="40" height="40"/>
 </div>
 </div>
 
